@@ -12,6 +12,6 @@ No Login Page. No User Creation. Only transfer of money between multiple users.<
 
 Host the website at 000webhost. github.io, heroku app or any other free hosting provider. Check in code in gitlab.
 <br><br>
-Github Link :                                                       <br>
-website Link:                                                       <br>
+Github Link :https://github.com/SudhaDidwani/Banking-System.github.io.git <br>
+website Link: https://github.com/SudhaDidwani/Banking-System.github.io<br>
 Linkedin Link:- https://www.linkedin.com/in/sudha-didwani-069403233<br>
